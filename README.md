@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bryanrillstone
-- 👀 I’m interested in web development and data analytics.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, and R.
-- 💞️ I’m looking to collaborate on any web development or data analyics project.
+- 💞️ I’m looking to collaborate on any web development projects.
 - 📫 You can to reach me on [Twitter](https://twitter.com/Jalopyrocke) or [Linkedin](https://www.linkedin.com/in/bryan-rillstone).
 
 <!---
